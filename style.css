@@ -205,3 +205,12 @@ body {
       flex-wrap: wrap;
   }
 }
+
+.footer {
+  background-color: #16213e;
+  color: #c0c0c0;
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 4rem;
+  border-top: 2px solid #0f3460;
+}
