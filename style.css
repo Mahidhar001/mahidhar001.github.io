@@ -115,6 +115,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   gap: 2rem;
+  align-items: stretch;
 }
 
 .project-card {
