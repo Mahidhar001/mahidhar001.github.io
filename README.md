@@ -6,9 +6,8 @@
 #### Student & Developer
 
 # Projects
- ### [Imagine Mind](https://imagine-mind.web.app)
 
- ### [Real-time Solar System](https://mahidhar001.github.io/realtime-solar-system)
+ ### [Imagine Mind](https://imagine-mind.web.app)
 
 # Connect
 #### [X: @Mahidhar_001](https://x.com/Mahidhar_001)
