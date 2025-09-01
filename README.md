@@ -1,6 +1,7 @@
 # [Mahidhar001](https://mahidhar001.github.io)
 
 ### Welcome
+
 #### Hi , I'm mahidhar.
 
 #### Student & Developer
@@ -47,5 +48,3 @@
 ### C++ Programming
 
 ### Kotlin Programming
-
-### Firebase studio
