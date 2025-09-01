@@ -1,3 +1,4 @@
+//Function to show sections
 function showSection(sectionId) {
     const sections = document.querySelectorAll('main > div');
 
@@ -10,6 +11,8 @@ function showSection(sectionId) {
         activeSection.classList.remove('hidden');
     }
 }
+
+// Show welcome section at first
 document.addEventListener('DOMContentLoaded', () => {
     showSection('welcome-section');
 });
