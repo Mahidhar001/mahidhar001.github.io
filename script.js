@@ -12,7 +12,6 @@ function showSection(sectionId) {
     }
 }
 
-// Show welcome section at first
 document.addEventListener('DOMContentLoaded', () => {
     showSection('welcome-section');
 });
