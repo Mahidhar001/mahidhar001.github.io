@@ -6,6 +6,8 @@
 
 #### Student & Developer
 
+### Learning C++
+
 # Projects
 
  ### [Imagine Mind](https://imagine-mind.web.app)
