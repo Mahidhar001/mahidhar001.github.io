@@ -12,6 +12,7 @@ function showSection(sectionId) {
     }
 }
 
+//shws welcome section at start
 document.addEventListener('DOMContentLoaded', () => {
     showSection('welcome-section');
 });
