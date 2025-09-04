@@ -1,3 +1,6 @@
+// ides doing
+document.getElementById('doing').style.display = 'none';
+
 //Function to show sections
 function showSection(sectionId) {
     const sections = document.querySelectorAll('main > div');
