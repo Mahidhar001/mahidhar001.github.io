@@ -12,10 +12,6 @@
 
  #### Generate and edit images with AI for free.
 
- ### [Tale Weave](https://tale-weave.web.app)
-
- #### Tale Weave is now under construction.
-
 # Connect
 
 #### [X: @Mahidhar_001](https://x.com/Mahidhar_001)
