@@ -201,7 +201,7 @@ body {
   display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .top-bar {
       flex-direction: column;
       padding: 1rem;
