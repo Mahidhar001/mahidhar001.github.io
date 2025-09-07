@@ -30,6 +30,8 @@
 
 #### [Email](mailto:mahidhartatipakala@gmail.com)
 
+#### [w3schools](https://www.w3profile.com/Mahidhar/)
+
 # Skills
 
 ### Google Workspace
