@@ -32,6 +32,8 @@
 
 #### [w3schools](https://www.w3profile.com/Mahidhar/)
 
+#### [Google Product Expert](https://support.google.com/profile/364974581)
+
 # Skills
 
 ### Google Workspace
