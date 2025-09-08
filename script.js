@@ -1,4 +1,3 @@
-// Function to show sections
 function showSection(sectionId) {
     const sections = document.querySelectorAll('main > div');
 
@@ -12,7 +11,6 @@ function showSection(sectionId) {
     }
 }
 
-// shows welcome section at start
 document.addEventListener('DOMContentLoaded', () => {
     showSection('welcome-section');
 });
