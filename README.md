@@ -20,19 +20,11 @@
 
 #### [LeetCode: Mahidhar0](https://leetcode.com/u/Mahidhar0)
 
-#### [Google Developer: Mahidhar0](https://g.dev/Mahidhar0)
-
 #### [Roblox: mahidhar_001](https://www.roblox.com/users/8515266461/profile)
 
 #### [Dicord: mahidhar001](https://discord.com/users/1396512147193856034)
 
 #### [Duolingo: Mahidhar0](https://www.duolingo.com/profile/Mahidhar0)
-
-#### [Email](mailto:mahidhartatipakala@gmail.com)
-
-#### [w3schools](https://www.w3profile.com/Mahidhar/)
-
-#### [Google Product Expert](https://support.google.com/profile/364974581)
 
 # Skills
 
@@ -42,10 +34,6 @@
 
 ### Firebase
 
-### Android App Development
-
 ### Python Programming
 
 ### C++ Programming
-
-### Kotlin Programming
