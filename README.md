@@ -4,13 +4,13 @@
 
 #### Hi , I'm mahidhar.
 
-#### Student & Developer
+#### Student & Full stack Developer
 
 # Projects
 
- ### [Imagine Mind](https://imagine-mind.web.app)
+ ### [Imagine Mind](https://imagine-mind.web.app) 
 
- #### Generate and edit images with AI for free.
+ #### Generate and edit images with AI for free. 
 
 # Connect
 
