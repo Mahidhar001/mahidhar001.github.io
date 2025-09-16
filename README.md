@@ -22,7 +22,7 @@
 
 #### [Dicord: Mahidhar01](https://discord.com/users/1396512147193856034)
 
-#### [Duolingo: Mahidhar0](https://www.duolingo.com/profile/Mahidhar0)
+#### [Duolingo: Mahidhar_01](https://www.duolingo.com/profile/Mahidhar_01)
 
 # Skills
 
