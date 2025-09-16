@@ -1,7 +1,5 @@
 # [Mahidhar001](https://mahidhar001.github.io)
 
-### Welcome
-
 #### Hi , I'm mahidhar.
 
 #### Student & Full stack Developer
