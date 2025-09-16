@@ -22,7 +22,7 @@
 
 #### [Roblox: mahidhar_001](https://www.roblox.com/users/8515266461/profile)
 
-#### [Dicord: mahidhar001](https://discord.com/users/1396512147193856034)
+#### [Dicord: Mahidhar01](https://discord.com/users/1396512147193856034)
 
 #### [Duolingo: Mahidhar0](https://www.duolingo.com/profile/Mahidhar0)
 
