@@ -1,117 +1,57 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    
-    <!--Google Analyics-->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1KWNYVS13G"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-1KWNYVS13G');
-    </script>
+    <html lang="en">
+    <head>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-1KWNYVS13G');
+        </script>
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mahidhar | Portfolio</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Mahidhar | Portfolio</title>
 
-    <meta name="description" content="Mahidhar. Student & Full-stack developer building end-to-end solutions with technologies like Firebase. Explore my projects.">
-    <meta name="author" content="Mahidhar">
-    <meta name="canonical" href="https://mahidhar001.github.io">
-    <meta name="google-site-verification" content="0iLsRf2X0mora7dg3DqYJn35rLpnneLYQkYygiZUESs" />
+        <meta name="description" content="Mahidhar. Student & Full-stack developer building end-to-end solutions with technologies like Firebase. Explore my projects.">
+        <meta name="author" content="Mahidhar">
+        <meta name="canonical" href="https://mahidhar001.github.io">
+        <meta name="google-site-verification" content="0iLsRf2X0mora7dg3DqYJn35rLpnneLYQkYygiZUESs" />
 
-    <!--Social Media Card-->
-    <meta property="og:title" content="Mahidhar | Portfolio">
-    <meta property="og:description" content="Mahidhar. Full-stack developer building end-to-end solutions with technologies like Firebase. Explore my projects.">
-    <meta property="og:image" content="https://mahidhar001.github.io/Images/icon.webp">
-    <meta property="og:url" content="https://mahidhar001.github.io">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Mahidhar | Portfolio">
+        <meta property="og:title" content="Mahidhar | Portfolio">
+        <meta property="og:description" content="Mahidhar. Full-stack developer building end-to-end solutions with technologies like Firebase. Explore my projects.">
+        <meta property="og:image" content="https://mahidhar001.github.io/Images/icon.webp">
+        <meta property="og:url" content="https://mahidhar001.github.io">
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="Mahidhar | Portfolio">
 
-    <!--X Card-->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@Mahidhar_001">
-    <meta name="twitter:creator" content="@Mahidhar_001">
-    <meta name="twitter:title" content="Mahidhar | Portfolio">
-    <meta name="twitter:description" content="Mahidhar. Full-stack developer building end-to-end solutions with technologies like Firebase. Explore my projects.">
-    <meta name="twitter:image" content="https://mahidhar001.github.io/Images/icon.webp">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@Mahidhar_001">
+        <meta name="twitter:creator" content="@Mahidhar_001">
+        <meta name="twitter:title" content="Mahidhar | Portfolio">
+        <meta name="twitter:description" content="Mahidhar. Full-stack developer building end-to-end solutions with technologies like Firebase. Explore my projects.">
+        <meta name="twitter:image" content="https://mahidhar001.github.io/Images/icon.webp">
 
-    <!--Icon-->
-    <link rel="apple-touch-icon" href="Images/icon.webp">
-    <link rel="icon" type="image/webp" href="Images/icon.webp">
+        <link rel="apple-touch-icon" href="Images/icon.webp">
+        <link rel="icon" type="image/webp" href="Images/icon.webp">
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>    
-    <!-- Navigation Bar -->
-    <div class="top-bar">
-        <div>
-        <span class="logo" onclick="showSection('welcome-section')">Mahidhar</span>
-        <a href="https://www.google.com/search?q=mahidhar+portfolio" target="_blank"><img id="google-icon" src="Images/google-icon.webp" onclick=""></a>
-        </div>
-        <ul class="nav-links">
-            <li><a href="#" onclick="showSection('projects-section')">Projects</a></li>
-            <li><a href="#" onclick="showSection('connect-section')">Connect</a></li>
-            <li><a href="#" onclick="showSection('skills-section')">Skills</a></li>
-        </ul>
-    </div>
-
-    <main>
-
-        <!--Welcome section (First screen)-->
-        <div id="welcome-section" class="content-section">
-            <h1>Welcome!</h1>
-            <h2>I'm Mahidhar</h2>
-            <p>Student & Developer</p>
-        </div>
-
-        <!--Projects Section-->
-        <div id="projects-section" class="projects-section hidden">
-            <h1 class="content-section">My Projects</h1>
-            <div class="project-cards-container">
-                <div class="project-card">
-                    <h3>Imagine Mind</h3>
-                    <p>Generate and edit images with AI for free Powered by gemini 2.0 image.</p>
-                    <a href="https://imagine-mind.web.app" class="project-button">open</a>
-                </div>
-            </div>
-        </div>
-
-        <!--Connect Section-->
-        <div id="connect-section" class="content-section hidden">
-            <h1>Let's Connect!</h1>
-            <ul class="connect-links">
-                <li><a href="https://x.com/Mahidhar_001" target="_blank">X: @Mahidhar_001</a></li>
-                <li><a href="https://github.com/Mahidhar001" target="_blank">GitHub: Mahidhar001</a></li>
-                <li><a href="https://leetcode.com/u/Mahidhar0" target="_blank">LeetCode: Mahidhar0</a></li>
-                <li><a href="https://www.roblox.com/users/8515266461/profile" target="_blank">Roblox: mahidhar_001</a></li>
-                <li><a href="https://discord.com/users/1396512147193856034" target="_blank">Dicord: Mahidhar01</a></li>
-                <li><a href="https://www.duolingo.com/profile/Mahidhar_01" target="_blank">Duolingo: Mahidhar0</a></li>
-                <li><a href="https://instabyte.io/subscribe?ref=QLDhFyXXv0" target="_blank">Join Instabyte</a></li>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header class="top-bar">
+            <span><a href="/">MAHIDHAR</a></span>
+            <ul class="nav-links">
+                <li><a href="projects" class="nav-link">Projects</a></li>
+                <li><a href="skills" class="nav-link">Skills</a></li>
+                <li><a href="connect" class="nav-link">Connect</a></li>
             </ul>
-        </div>
-
-        <!--Skills Section-->
-        <div id="skills-section" class="content-section hidden">
-            <h1>Skills</h1>
-            <div class="skills-container">
-                <ul class="skills">
-                    <li>Google Workspace</li>
-                    <li>Web(HTML, CSS, JavaScript)</li>
-                    <li>Firebase</li>
-                    <li>Python Programming</li>
-                    <li>C++ Programming</li>
-                </ul>
-            </div>
-        </div>
-    </main>
-
-    <!--Footer-->
-    <footer class="footer">
-        <p>&copy; 2025 Mahidhar. All rights reserved.</p>
-    </footer>
-
-    <script src="/script.js"></script>
-  </body>
+        </header>
+        <main class="content">
+            <span>Welcome!</span>
+            <p>I'm Mahidhar</p>
+            <p>Student & Full stack developer</p>
+        </main>
+        <footer class="footer">
+            &copy; 2025 Mahidhar
+        </footer>
+    </body>
 </html>
