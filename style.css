@@ -1,5 +1,12 @@
+body {
+    background-color: #1a1a2e;
+    margin: 0;
+}
+
 .top-bar span a {
-    border: 2px;
+    font-size: 25px;
+    font-weight: 900;
+    color: rgb(230, 53, 82);
 }
 
 .top-bar span {
@@ -22,11 +29,10 @@ ul {
 
 .nav-links li {
     float: left;
-    border: 2px solid;
 }
 
 .nav-link {
-    color: black;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -34,8 +40,11 @@ ul {
 
 .top-bar {
     display: flex;
-    border: 3px solid;
+    border-bottom: 2px solid #3232bc;
     justify-content: space-between;
+    background-color: #33335b;
+    padding: 10px;
+    margin: 0;
 }
 
 .footer {
