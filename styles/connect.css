@@ -1,0 +1,52 @@
+main h1 {
+    color: #1942fa;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main ul {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+main ul li {
+    text-align: center;
+    background-color: #5f647d;
+    padding: 20px;
+    border: 2px aliceblue solid;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    gap: 1.5
+}
+
+main ul li a {
+    color: azure;
+    font-weight: 900;
+}
+
+main ul li:hover {
+    background-color: #343745;
+}
+
+@media (max-width: 600px) {
+    main h1 {
+        font-size: 50px
+    }
+}
+
+@media (max-width: 468px) {
+    main h1 {
+        font-size: 40px;
+    }
+}

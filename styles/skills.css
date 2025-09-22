@@ -1,0 +1,32 @@
+main h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+main ul li {
+    background-color: rgb(53, 102, 145);
+    text-align: center;
+    margin-bottom: 15px;
+    border: white 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+main ul {
+    margin: 20px;
+    margin-bottom: 80px;
+}
+
+@media (max-width: 468px) {
+    main ul {
+        margin-bottom: 30px;
+    }
+    main h1 {
+        font-size: 35px;
+    }
+    main ul li {
+        font-size: 14px;
+    }
+}
