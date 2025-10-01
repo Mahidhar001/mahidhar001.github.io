@@ -1,0 +1,10 @@
+@media (max-width: 380px){
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+body {
+    font-family: 'Alan Sans', sans-serif;
+}
