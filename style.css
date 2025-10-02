@@ -8,3 +8,7 @@
 body {
     font-family: 'Alan Sans', sans-serif;
 }
+
+html {
+  scroll-padding-top: 80px;
+}
