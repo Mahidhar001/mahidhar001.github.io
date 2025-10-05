@@ -2,4 +2,4 @@
 
 ### My personal portfolio
 
-### Tis redirect to my portfolio in google sites.
+### This redirect to my portfolio in google sites.
